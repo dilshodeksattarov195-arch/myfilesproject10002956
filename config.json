@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachesetch",
+        "uuid": 7703336,
+        "checksum": "b3z7r"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
